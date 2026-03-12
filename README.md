@@ -1,2 +1,2 @@
 # hello-world
-このリポジトリはGitHub Flowの練習用です
+This repository is for practicing the GitHub Flow
